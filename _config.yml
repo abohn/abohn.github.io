@@ -26,10 +26,11 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Andy Bohn
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Cornell physics graduate student studying merging black holes,
+    board games, and barrel strength whiskey."
+  email: andy@andybohn.com
   disqus-shortname:
   twitter: #username
   facebook: #username
