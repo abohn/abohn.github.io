@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Andy Bohn
 locale:           en_US
-url:
+#url:              http://andybohn.com
 
 
 # Jekyll configuration
