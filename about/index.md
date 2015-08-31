@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About me
+tags: [about]
+share: false
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+My name is Andy Bohn, and I am a Ph.D. Candidate at
+[Cornell University](http://www.cornell.edu) in the
+[physics department](http://www.physics.cornell.edu).
 
-## Minimal Mistakes is all about:
+I currently work in the field of numerical relativity, where I use
+supercomputers to study the interactions between black holes, neutron stars,
+gravitational waves, and anything else Einstein's theory of relativity
+predicts.
+Head over to my [research page](/research) for more information.
+Before coming to *sunny* Ithaca, New York in 2010, I attended
+[Purdue University](http://www.purdue.edu), where I received
+degrees in physics and mathematics.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+## Hobbies
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
