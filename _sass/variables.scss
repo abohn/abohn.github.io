@@ -58,6 +58,12 @@ $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
+$linkcolor-dark 		    : #343434;
+$link-color-dark       : $linkcolor-dark;
+$linkcolorhover-dark 	: darken($linkcolor-dark, 10);
+$linkcolorvisited-dark : lighten($linkcolorhover-dark, 20);
+$linkcolorfocus-dark 	: darken($linkcolorvisited-dark, 10);
+
 /*
    Breakpoints
    ========================================================================== */
