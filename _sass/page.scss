@@ -13,30 +13,13 @@ body {
    ========================================================================== */
 
 .navigation-wrapper {
+	@extend .link-header;
 	@include container;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
-	a {
-		text-decoration: none;
-		color: $link-color-dark;
-		&:visited {
-			color: $linkcolorvisited-dark;
-		}
-		&:hover {
-			color: $linkcolorhover-dark;
-		}
-		&:focus {
-			outline: thin dotted;
-			color: $linkcolorfocus-dark;
-		}
-		&:hover,
-		&:active {
-			outline: 0;
-		}
-	}
 }
 
 /* Site name */
@@ -365,6 +348,27 @@ $button-size: 1.5rem;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;
+	}
+}
+
+.link-header {
+	a {
+		text-decoration: none;
+		color: $link-color-dark;
+		&:visited {
+			color: $linkcolorvisited-dark;
+		}
+		&:hover {
+			color: $linkcolorhover-dark;
+		}
+		&:focus {
+			outline: thin dotted;
+			color: $linkcolorfocus-dark;
+		}
+		&:hover,
+		&:active {
+			outline: 0;
+		}
 	}
 }
 
