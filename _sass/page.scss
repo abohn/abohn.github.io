@@ -288,6 +288,10 @@ $button-size: 1.5rem;
 .image-wrap {
 	position: relative;
 	margin-bottom: 2em;
+	display: block;
+	height: auto;
+	max-height: 300px;
+	line-height: 300px;
 	@include clearfix;
 	&:after {
 		content: " ";
@@ -309,10 +313,17 @@ $button-size: 1.5rem;
 			left: 33.333333333%;
 		}
 	}
+	.image-wrap-overflow {
+		height: auto;
+		overflow: hidden;
+	}
 	img {
 		width: 100%;
 		height: auto;
 		-ms-interpolation-mode: bicubic;
+		position: relative;
+		margin: -50% auto;
+		vertical-align: middle;
 	}
 	.headline-wrap {
 		position: absolute;
