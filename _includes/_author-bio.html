@@ -12,7 +12,8 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
-  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+  <!-- reCAPTCHA my email address -->
+<a href="http://www.google.com/recaptcha/mailhide/d?k=013VYnIZ4lXDlUvDH4ECsJDw==&amp;c=ll1C835n0qIXQ0Ql_g3tiDFozcd52eJkVR6w2MqcNkQ=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075013VYnIZ4lXDlUvDH4ECsJDw\75\75\46c\75ll1C835n0qIXQ0Ql_g3tiDFozcd52eJkVR6w2MqcNkQ\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email</a>
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
