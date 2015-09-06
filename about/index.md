@@ -3,6 +3,9 @@ layout: page
 title: About me
 tags: [about]
 share: false
+image:
+  feature: science/disk.png
+  credit: Accretion disk around maximally spinning black hole
 ---
 
 My name is Andy Bohn, and I am a Ph.D. Candidate at
