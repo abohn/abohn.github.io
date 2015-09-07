@@ -118,3 +118,11 @@ potentially match the name.
 It would also be interesting to see how these distributions compare to random
 distributions of letters of equal length, but I'll leave that to a future post.
 
++ A<span style="color: green; font-weight: bold; font-size: 18pt;">N</span>dy Bohn
++ A<span style="color: green; font-weight: bold; font-size: 18pt;">Nd</span>y Bohn
++ An<span style="color: green; font-weight: bold; font-size: 18pt;">Dy</span> Bohn
++ And<span style="color: green; font-weight: bold; font-size: 18pt;">Y</span> Bohn
++ Andy <span style="color: green; font-weight: bold; font-size: 18pt;">B</span>ohn
++ Andy B<span style="color: green; font-weight: bold; font-size: 18pt;">O</span>hn
++ Andy Bo<span style="color: green; font-weight: bold; font-size: 18pt;">H</span>n
++ Andy Boh<span style="color: green; font-weight: bold; font-size: 18pt;">N</span>
