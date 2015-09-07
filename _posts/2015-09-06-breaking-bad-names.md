@@ -72,7 +72,7 @@ the name only has 9 characters:
 
 For the last names, just 0.18% had no possible symbol
 insertions!
-I won't list all of them here.
+I won't list all of them here, because there are about 160 of them.
 
 ![Last name replacements]( {{ site.url }}/images/math/LastNames.svg)
 
@@ -102,7 +102,19 @@ Here are the results:
 ![Full name replacements]( {{ site.url }}/images/math/FullNames.svg)
 
 The chance that a full name has no symbol replacements possible is 0.0015%!
-We again see that, due to having longer names, we have a larger
-mean and a long tail that extends to 25 symbol replacements, if
-you have a name like Catherine Bernasconi!
+The full names contain, of course, more letters than the first name or last
+name separately.
+This leads us again to see the distribution shift upwards, having a larger
+mean and a tail that extends out to 25 symbol replacements!
+An example of such a dense name is Catherine Bernasconi, with only 19
+characters.
+
+
+Note: I did not consider elements that connect the first name and last name.
+The element Eb would not be matched to Catherine Bernasconi, if it existed.
+Allowing chemical symbols to connect the names would have slightly bumped
+the distribution up, due to allowing one more 2 character symbol to
+potentially match the name.
+It would also be interesting to see how these distributions compare to random
+distributions of letters of equal length, but I'll leave that to a future post.
 
