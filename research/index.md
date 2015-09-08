@@ -7,6 +7,7 @@ image:
   credit: Event horizons of merging black holes, by me
 ---
 
+
 ### Getting started
 
 When I was in grade school and first learned that mysterious objects called
@@ -115,3 +116,8 @@ even merging black holes really look like!
 Here's a page that explains [gravitational lensing]({{site.url}}/research/lensing.html).
 The banner art on the home page and the about me page show off some output
 of our gravitational lensing work.
+
+![lensing guys]({{site.url}}/images/other/Throwe-Bohn-Hebert.jpg)
+<sub><sup>Jason Koski/University Photography</sup></sub>
+
+*The trio that started the gravitational lensing project*
