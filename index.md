@@ -4,6 +4,6 @@ excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: GenericBinaryCropped.png
-  credit: Simulated image of merging black holes
+  credit: Simulated image of merging black holes, by my group
   creditlink: http://black-holes.org/lensing
 ---

@@ -4,7 +4,7 @@ title: My research
 share: false
 image:
   feature: science/EM_EH_tbar_wireframe_zoomedout_cropped.png
-  credit: Event horizons of merging black holes
+  credit: Event horizons of merging black holes, by me
 ---
 
 ### Getting started

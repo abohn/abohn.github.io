@@ -5,7 +5,8 @@ tags: [about]
 share: false
 image:
   feature: science/disk.png
-  credit: Accretion disk around maximally spinning black hole
+  credit: Accretion disk around maximally spinning black hole, by my group
+  creditlink: ../research
 ---
 
 My name is Andy Bohn, and I am a Ph.D. Candidate at
