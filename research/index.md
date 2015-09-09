@@ -7,6 +7,10 @@ image:
   credit: Event horizons of merging black holes, by me
 ---
 
+### Some quick links to my research
+
+* [Event horizon finding]({{site.url}}/research/event-horizons.html)
+* [Gravitational lensing]({{site.url}}/research/lensing.html)
 
 ### Getting started
 
