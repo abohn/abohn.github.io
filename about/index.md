@@ -26,12 +26,12 @@ degrees in physics and mathematics.
 
 I like to program random things in my free time.
 You can see a few examples in my blog posts.
-I'm an active guy who will engage in pretty much
-any sport or physical activity readily.
-I currently bike, run, play soccer, and go to the gym, when I can wake up
-early enough.
+I enjoy engaging in random sports or physical activities as often as my work
+allows.
+I currently bike, run, play soccer, and go to the gym (when I can wake up
+early enough).
 
-I love music, especially
+I love music (who doesn't), especially
 [drum corps](http://www.dci.org).
 I play the piano and almost any percussion
 instrument you can name.
@@ -44,16 +44,17 @@ drumming days in high school:
 
 I should probably find some better pictures, or maybe
 post some videos!
-I played marching snare all 4 years of high school,
+I played snare in the marching band and winter drumline
+all 4 years of high school,
 and was accepted into the
 2005 BOA Honor Band for the Rose Bowl parade.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yxP0XTgSFdE" frameborder="0" allowfullscreen></iframe>
-(see 1:10, 1:28, 1:38, for jpg-filled examples).
+(see 1:10, 1:28, 1:38, for extremely jpeggy examples).
 
 I've recently been getting into chess, but I watch
 much more chess than I play.
 I have a few neat blog posts coming up about
 chess and programming, so stay tuned!
 
-*more to come, if I find more hobbies*
+*more to come, if I find more hobbies or time to expand this page*
