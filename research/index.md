@@ -83,25 +83,25 @@ As technology and ingenuity advances, we have been able to test more and
 more of the theory with increasing accuracy, and the theory has passed with flying
 colors.
 General relativity also predicts the existence of
-a type of gravitational radiation called gravitational waves.
+something called gravitational waves.
 
 ![gravitational waves]({{ site.url }}/images/science/waves.jpg)
 <sub><sup>[image source](http://www.space.com/)</sup></sub>
 
-Einstein's general relativity describes gravity
+Einstein's theory of general relativity describes gravity
 as an intrinsic property of space and time.
 Sources of gravity cause space and time to become
 curved, and all objects in the universe simply try to move in straight lines
-in this curved space-time.
+in this curved spacetime.
 The moon orbiting the Earth is following a straight
-line in the curved space-time near the Earth, which
+line in the curved spacetime near the Earth, which
 causes it to orbit.
 Gravitational waves are ripples in the curvature of
-space-time.
+spacetime.
 
 Directly detecting gravitational radiation would
-be a large step in cementing the theory of general
-relativity.
+be another large step in the process of testing
+the validity of general relativity.
 However, being unable to detect gravitational radiation, or detecting
 radiation that we didn't expect would start an incredible journey
 in discovering entirely new physics!
