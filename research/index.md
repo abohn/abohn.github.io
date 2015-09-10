@@ -46,7 +46,7 @@ questions about black holes with Saul straight away!
 
 ### What my group studies
 
-I do work in the
+I work in the
 [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/)
 studying merging black holes and neutron stars.
 Here's a little bit of backstory:
