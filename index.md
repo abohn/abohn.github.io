@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A place to pretend people are paying attention to what I say"
+tags: [math, physics, programming, chess, drumming, nerd]
 image:
   feature: GenericBinaryCropped.png
   credit: Simulated image of merging black holes, by my group
