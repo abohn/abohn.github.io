@@ -39,7 +39,9 @@ Here's a couple pictures of my rudimental snare
 drumming days in high school:
 
 ![drumming1]({{site.url}}/images/other/drumming1.jpg)
+
 ![drumming2]({{site.url}}/images/other/drumming2.jpg)
+
 (I'm in the middle of the snare line with the blue cap)
 
 I should probably find some better pictures, or maybe
