@@ -2,6 +2,7 @@
 title: "Breaking Bad names"
 tags: [math]
 layout: post
+comments: true
 ---
 
 I'm currently binge re-re-watching the show Breaking Bad, when I starting

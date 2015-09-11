@@ -2,6 +2,7 @@
 title: "Operator-> in c++"
 tags: [coding]
 layout: post
+comments: true
 ---
 
 I recently discovered an interesting fact about how operator->() operates

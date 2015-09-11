@@ -2,6 +2,7 @@
 title: "Coins on a table"
 tags: [puzzle]
 layout: post
+comments: true
 ---
 
 This is one of my favorite logic puzzles, and was told to me by my
