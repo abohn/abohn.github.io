@@ -7,16 +7,21 @@ image:
   credit: Event horizons of merging black holes, by me
 ---
 
-### Some quick links to my research
-
-* [Event horizon finding]({{site.url}}/research/event-horizons.html)
-* [Gravitational lensing]({{site.url}}/research/lensing.html)
-
-
 ![lensing guys]({{site.url}}/images/other/Throwe-Bohn-Hebert.jpg)
 <sub><sup>Jason Koski/University Photography</sup></sub>
 
-*The trio that started the gravitational lensing project*
+*The trio that started the gravitational lensing project: Will Throwe, Andy Bohn,
+Francois Hebert*
+
+### Quick links to my research
+
+* [Gravitational lensing]({{site.url}}/research/lensing.html) - A really
+exciting project is trying to answer the question
+"What do merging black holes really look like?"
+* [toroidal event horizons]({{site.url}}/research/event-horizons.html) - My
+thesis is primarily focused on studying the topological properties of
+event horizons during a merger
+
 
 ### Getting started
 
@@ -118,8 +123,8 @@ The primary focus of my thesis work is studying how the event horizons of two bl
 holes join together to form a single black hole.
 Here's a page that explains more about my studies
 on [event horizons]({{site.url}}/research/event-horizons.html).
-In fact, the banner art at the top of this page is
-actual output from my work studying event horizons!
+The banner art at the top of this page shows the event horizons of two black holes
+running directly into each other.
 
 I also spent some time studying what black holes, and
 even merging black holes really look like!
