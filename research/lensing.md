@@ -4,6 +4,13 @@ title: Gravitational lensing
 share: true
 ---
 
+First things first... *High res movies!*
+
+* [Merging black holes](http://www.black-holes.org/lensing/GenericPerpWide.mp4)
+* [Another view of merging black holes](http://www.black-holes.org/lensing/GenericParaWide.mp4)
+* [Partial orbit around black hole](https://www.black-holes.org/lensing/SchwarzschildPartialOrbit.mp4)
+
+
 An interesting prediction of general relativity is that light does not just
 travel in a straight line, but its path is bent by gravity.
 Gravitational
@@ -26,7 +33,6 @@ Even though black holes emit no light themselves, their effect on light passing
 nearby leads to some stunning visual and mathematical results!
 
 ###Single black hole
-
 
 We have written code to produce images of stars from a star catalog, such as the
 <a href="http://www.ipac.caltech.edu/2mass/">2MASS catalog</a>.
@@ -112,6 +118,9 @@ The camera is located above the orbital plane of the binary looking down.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qg6PwRI2uS8" frameborder="0" allowfullscreen></iframe>
 
+Or see the high res video here:
+[high resolution](http://www.black-holes.org/lensing/GenericParaWide.mp4)
+
 ![3 to 1 mass ratio binary: Face-on]({{site.url}}/images/science/ParaHighRes.png)
 
 We see an Einstein ring surrounding both masses.
@@ -143,6 +152,9 @@ parameters.
 ![Milky Way - Star rendering code]({{site.url}}/images/science/PerpFlat.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENd8Sz0AFOk" frameborder="0" allowfullscreen></iframe>
+
+Or see the high res video here:
+[high resolution](http://www.black-holes.org/lensing/GenericPerpWide.mp4)
 
 ![3 to 1 mass ratio binary: Edge-on]({{site.url}}/images/science/PerpHighRes.png)
 
